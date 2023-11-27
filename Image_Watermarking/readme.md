@@ -1,4 +1,4 @@
-# Image Watermarking Tool
+# Image Watermarking 
 
 This is a simple Python code for adding a watermark to an image. The code uses the popular PIL (Pillow) library for image processing.
 
