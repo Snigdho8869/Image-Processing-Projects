@@ -12,48 +12,78 @@ This project demonstrates various image effects implemented using the OpenCV lib
 ## Filters & Effects
 
 1. **Original**
+
+   
    ![Original Image](results/original.png)
 
 2. **Grayscale Effect**
+
+   
    ![Grayscale Image](results/gray.png)
 
 3. **Cartoonize Effect**
+
+   
    ![Cartoonized Image](results/cartoon.png)
 
 4. **Blurred Effect**
-   ![Blurred Image](results/blurred.jpg)
+
+   
+   ![Blurred Image](results/blurred.png)
 
 5. **Sharpened Effect**
-   ![Sharpened Image](results/sharpened.jpg)
+
+   
+   ![Sharpened Image](results/sharpened.png)
 
 6. **Edge Detection**
-   ![Edge Image](results/edge.jpg)
+
+    
+   ![Edge Image](results/edge.png)
 
 7. **Inverted Colors**
-   ![Inverted Colors Image](results/inverted.jpg)
+
+    
+   ![Inverted Colors Image](results/inverted.png)
 
 8. **Pixelated Effect**
-   ![Pixelated Image](results/pixelated.jpg)
+
+    
+   ![Pixelated Image](results/pixelated.png)
 
 9. **Thermal Vision Effect**
-   ![Thermal Vision Image](results/thermal.jpg)
+
+    
+   ![Thermal Vision Image](results/thermal.png)
 
 10. **Vintage Effect**
-   ![Vintage Image](results/vintage.jpg)
+
+    
+   ![Vintage Image](results/vintage.png)
 
 11. **Watercolor Effect**
-    ![Watercolor Image](results/watercolor.jpg)
+
+    
+    ![Watercolor Image](results/watercolor.png)
 
 12. **Cinematic Effect**
-    ![Cinematic Image](results/cinematic.jpg)
+
+    
+    ![Cinematic Image](results/cinematic.png)
 
 13. **Pencil Sketch Effect**
-    ![Pencil Sketch Image](results/sketch.jpg)
+
+    
+    ![Pencil Sketch Image](results/sketch.png)
 
 14. **Lomo Effect**
-    ![Lomo Image](results/lomo.jpg)
+
+    
+    ![Lomo Image](results/lomo.png)
 
 15. **Rainbow Effect**
-    ![Rainbow Image](results/rainbow.jpg)
+
+    
+    ![Rainbow Image](results/rainbow.png)
 
 
